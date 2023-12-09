@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Esther Adediran
 - 👀 I’m interested in front end development and product management
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on web devlopment projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 Add me on linkedIn: https://www.linkedin.com/in/estheradediran
 
 <!---
